@@ -10,4 +10,7 @@ public class GitdemoApplication {
         SpringApplication.run(GitdemoApplication.class, args);
     }
 
+    public void aa(){
+        System.out.println("hello world");
+    }
 }
