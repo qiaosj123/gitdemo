@@ -8,5 +8,5 @@ public class User {
 
       private   String    cc;
 
-      private  Long   dd;
+      private   Double    dd;
 }
