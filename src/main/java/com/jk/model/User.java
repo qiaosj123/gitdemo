@@ -7,4 +7,6 @@ public class User {
       private    String  bb;
 
       private   String    cc;
+
+      private  Long   dd;
 }
